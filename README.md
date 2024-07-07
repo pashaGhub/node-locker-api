@@ -31,6 +31,10 @@ run server on **production**:
   npm run start
 ```
 
+## API Reference
+
+Info about possible routes inside `route` folder in `README.md` file.
+
 ## Running Tests
 
 Application is tested with [Jest](https://jestjs.io/) and [Supertest](https://www.npmjs.com/package/supertest)
